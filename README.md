@@ -49,7 +49,7 @@ pytorch (>= 1.12), torchvision, matplotlib, numpy, random, skimage, scipy
 ## Contact
 cli38@ncsu.edu
 
-## References
-- Li, Chen, et al. "Deep learning-based autofocus method enhances image quality in light-sheet fluorescence microscopy." Biomedical Optics Express 12.8 (2021): 5214-5226.
-- Royer, Loïc A., et al. "Adaptive light-sheet microscopy for long-term, high-resolution imaging in living organisms." Nature biotechnology 34.12 (2016): 1267-1278.
-- 
+## Citation
+if you find this work and dataset are useful for your research, please cite these papers
+1. Li, Chen, et al. "Intelligent Beam Optimization for Light-Sheet Fluorescence Microscopy through Deep Learning." Intelligent Computing 3 (2024): 0095.
+2. Li, Chen, et al. "Illumination angle correction during image acquisition in light-sheet fluorescence microscopy using deep learning." Biomedical optics express 13.2 (2022): 888-901.
